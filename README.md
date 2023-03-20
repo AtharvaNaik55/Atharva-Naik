@@ -1,2 +1,2 @@
 # Atharva-Naik
-Data Science
+I am Learning at YBi Foundation Data Science
